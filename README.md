@@ -13,3 +13,6 @@ Hey check out this **hot woman!**
 
 ![image of hot woman](https://www.reddit.com/r/arcane/comments/1gyjbpc/s2_act_3_spoilers_vi_is_the_most_misunderstood/)
 
+Journal Example
+
+here is a journal blah blah blah
