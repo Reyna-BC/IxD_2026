@@ -11,7 +11,7 @@ This is a link -> [The Word](https://mizuumi.wiki/w/Pokemon:_Close_Combat/Galler
 
 Hey check out this **hot woman!**
 
-![image of hot woman](https://chiikawa.fandom.com/wiki/Usagi)
+![image of hot woman](https://static.wikia.nocookie.net/chiikawa/images/4/43/YahaUsagi.png/revision/latest/thumbnail/width/360/height/360?cb=20240709065537)
 
 ### Journal Example
 
