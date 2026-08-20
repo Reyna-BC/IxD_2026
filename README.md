@@ -13,6 +13,6 @@ Hey check out this **hot woman!**
 
 ![image of hot woman] (link)
 
-Journal Example
+### Journal Example
 
-here is a journal blah blah blah
+here is a journal [test] (journal/8.20.2026.md)
