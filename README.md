@@ -15,4 +15,4 @@ Hey check out this **hot woman!**
 
 ### Journal Example
 
-here is a journal [test] (journal/8.20.2026.md)
+here is a journal [test](journal/8.20.2026.md)
