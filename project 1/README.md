@@ -2,7 +2,7 @@
 
 ## Wireframe & Moodboard
 
-![image of boobs](insert link here of said image)
+![image of boobs](link)
 ![alttext](link)
 
 ## Link to Project
