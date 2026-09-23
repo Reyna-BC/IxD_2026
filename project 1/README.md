@@ -7,9 +7,9 @@ Pokemon TCG Packets - lately I have been returning to some hobbies I really enjo
 ![image](https://oasisgamesslc.com/img/product/pokemon/cardback.png)
 
 ## Link to Project
-[LINK TO GAME](https://editor.p5js.org/Reyna-BC/full/dt-W_kxpA)
+[CAT CARDS](https://editor.p5js.org/Reyna-BC/full/dt-W_kxpA)
 
 ### Instructions
+5 cards in each pack.
 Click on pack to open.
 Throw card to the right.
-5 cards in each pack.
