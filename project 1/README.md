@@ -1,8 +1,10 @@
 # PROJECT 1: CAT CARDS
 
 ## Wireframe & Moodboard
+INSPIRATIONS FOR CONCEPT IDEA
+Pokemon TCG Packets - lately I have been returning to some hobbies I really enjoyed doing with friends. The explosive trend of gatcha games being very luck/randomized within getting good or bad things, so this project is my attempt with the same approach of opening packs and getting a random chance to be lucky.
 
-![image](file:///C:/Users/reygu/Downloads/legend.png)
+![image]()
 ![alttext]()
 
 ## Link to Project
