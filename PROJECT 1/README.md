@@ -9,3 +9,9 @@ The explosive trend of gatcha games being very luck/randomized within getting go
 
 ## LINK TO CAT CARDS
 [CAT CARDS](https://reyna-bc.github.io/project-1/)
+
+# INSTRUCTIONS
+5 Cards per pack
+Click on pack to open.
+Throw card to the right.
+Press Spacebar to open another pack!
