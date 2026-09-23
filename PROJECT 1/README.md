@@ -12,7 +12,7 @@ The explosive trend of gatcha games being very luck/randomized within getting go
 
 ## INSTRUCTIONS
 
- 5 Cards per pack
- Click on pack to open.
- Throw card to the right.
+ 5 Cards per pack,
+ Click on pack to open,
+ Throw card to the right,
  Press Spacebar to open another pack!
